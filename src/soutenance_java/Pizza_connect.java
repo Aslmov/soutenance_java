@@ -1,5 +1,4 @@
 
-// Pizza_connect.java
 package soutenance_java;
 import java.sql.Connection;
 import java.sql.DriverManager;
